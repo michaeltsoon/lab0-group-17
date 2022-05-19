@@ -5,6 +5,7 @@ In this lab, you will learn Git basics that you will use throughout the semester
 - Basics of Version Control Systems (VCS): commit & push.
 - Learn how to work with branches.
 
+
 ## Step 0: Group formation (10-minutes)
 If you have not formed a group yet, that's fine.
 
